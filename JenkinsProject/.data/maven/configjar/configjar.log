@@ -1,0 +1,5 @@
+<Jul 22, 2016 2:32:29 PM GMT> <Info> <oracle.osb.tools-configjar> <BEA-000000> <The temporary directory (/home/oracle/.jenkins/jobs/BuildJob/workspace/JenkinsCapacitacion/JenkinsProject/.data/maven/configjar/configfwk/osbinstance1469197949894/OSB11gConfig) has been created for the configuration framework data. This directory will not be automatically deleted.> 
+<Jul 22, 2016 2:32:30 PM GMT> <Info> <oracle.osb.offline.kernel-offline.kerneloffline> <OSB-2030850> <Initializing ALSB in offline mode. Install dir: /u01/app/Middleware12.2.1/osb config dir: /home/oracle/.jenkins/jobs/BuildJob/workspace/JenkinsCapacitacion/JenkinsProject/.data/maven/configjar/configfwk/osbinstance1469197949894/OSB11gConfig> 
+<Jul 22, 2016 2:32:54 PM GMT> <Info> <oracle.osb.tools-configjar> <BEA-000000> <OSB offline instance has started.> 
+<Jul 22, 2016 2:32:54 PM GMT> <Info> <oracle.osb.tools-configjar> <BEA-000000> <OSB Config Jar /home/oracle/.jenkins/jobs/BuildJob/workspace/JenkinsCapacitacion/JenkinsProject/.data/maven/sbconfig.sbar has been created successfully.> 
+<Jul 22, 2016 2:32:54 PM GMT> <Info> <oracle.osb.tools-configjar> <BEA-000000> <Config Jar tool completed.> 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema 
+	xmlns="http://www.w3.org/2001/XMLSchema" 
+	xmlns:header="http://www.entel.cl/ESO/MessageHeader/v1" 
+	xmlns:tns="http://www.capacitaciones.com/JenkinsIC/Schema/v1"	
+	targetNamespace="http://www.capacitaciones.com/JenkinsIC/Schema/v1"
+	elementFormDefault="qualified" version="1.0">	
+
+			
+		<element name="REQ" type="tns:REQ_Type"/>
+		<complexType name="REQ_Type">
+			<attribute name="test" use="required" type="string"/>
+		</complexType>
+	
+	
+	<element name="RSP" type="tns:RSP_Type"/>
+		<complexType name="RSP_Type">
+			<attribute name="status" use="required" type="string"/>
+		</complexType>
+
+</schema>	
