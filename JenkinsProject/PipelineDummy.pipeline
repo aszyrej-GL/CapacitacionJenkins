@@ -23,7 +23,7 @@
                         <con1:id>_ActionId-N53ee3fae.151436e4.0.1549d24a6cd.N7e79</con1:id>
                         <con2:case id="_BranchId-N53ee3fae.151436e4.0.1549d24a6cd.N7e78">
                             <con2:condition>
-                                <con1:xqueryText>$body/v1:REQ/@test = "ok"</con1:xqueryText>
+                                <con1:xqueryText>$body/v1:REQ/@test = "test-ok"</con1:xqueryText>
                             </con2:condition>
                             <con2:actions>
                                 <con2:replace varName="body" contents-only="true">
